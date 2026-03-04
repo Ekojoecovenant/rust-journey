@@ -1,0 +1,11 @@
+[workspace]
+resolver = "2"
+
+members = [
+    "lessons/lesson_01",
+    "lessons/lesson_02",
+    "exercises/ex01",
+    "exercises/ex02",
+    "exercises/ex03",
+    "exercises/mini_project_01",
+]
