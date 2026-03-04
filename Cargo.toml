@@ -4,8 +4,9 @@ resolver = "2"
 members = [
     "lessons/lesson_01",
     "lessons/lesson_02",
+    "lessons/lesson_03",
     "exercises/ex01",
     "exercises/ex02",
     "exercises/ex03",
-    "exercises/mini_project_01",
+    "exercises/mini_project_01", "exercises/ex04", "exercises/ex05", "exercises/ex06", "exercises/mini_project_02",
 ]
