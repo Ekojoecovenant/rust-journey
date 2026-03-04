@@ -11,7 +11,7 @@ Learning Rust from scratch, step by step, with the best tutor ever.
 | Exercise 01 | Formatted Output | ✅ Done |
 | Exercise 02 | Variables & Report Card | ✅ Done |
 | Exercise 03 | Predict the Output | ✅ Done |
-| Mini Project 01 | Business Card | 🔄 In Progress |
+| Mini Project 01 | Business Card | ✅ Done |
 
 ## Setup
 
