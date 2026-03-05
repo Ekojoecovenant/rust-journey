@@ -12,6 +12,18 @@ Learning Rust from scratch, step by step, with the best tutor ever.
 | Exercise 02 | Variables & Report Card | ✅ Done |
 | Exercise 03 | Predict the Output | ✅ Done |
 | Mini Project 01 | Business Card | ✅ Done |
+| --- | --- | --- |
+| Lesson 03 | Variables, Mutability & Data Types | ✅ Done |
+| Exercise 04 | Mutability | ✅ Done |
+| Exercise 05 | Types & Math | ✅ Done |
+| Exercise 06 | Tuples & Destructuring | ✅ Done |
+| Mini Project 02 | Personal Info Card | ✅ Done |
+| --- | --- | --- |
+| Lesson 04 | Control Flow: Teaching your program to THINK | ✅ Done |
+| Exercise 07 | If/else | ✅ Done |
+| Exercise 08 | Loops | ✅ Done |
+| Exercise 09 | Match | ✅ Done |
+| Mini Project 03 | Number Analyzer | ✅ Done |
 
 ## Setup
 
