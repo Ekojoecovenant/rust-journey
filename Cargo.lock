@@ -39,6 +39,18 @@ name = "ex09"
 version = "0.1.0"
 
 [[package]]
+name = "ex10"
+version = "0.1.0"
+
+[[package]]
+name = "ex11"
+version = "0.1.0"
+
+[[package]]
+name = "ex12"
+version = "0.1.0"
+
+[[package]]
 name = "lesson_01"
 version = "0.1.0"
 
@@ -55,6 +67,10 @@ name = "lesson_04"
 version = "0.1.0"
 
 [[package]]
+name = "lesson_05"
+version = "0.1.0"
+
+[[package]]
 name = "mini_project_01"
 version = "0.1.0"
 
@@ -64,4 +80,8 @@ version = "0.1.0"
 
 [[package]]
 name = "mini_project_03"
+version = "0.1.0"
+
+[[package]]
+name = "mini_project_04"
 version = "0.1.0"

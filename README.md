@@ -24,6 +24,12 @@ Learning Rust from scratch, step by step, with the best tutor ever.
 | Exercise 08 | Loops | ✅ Done |
 | Exercise 09 | Match | ✅ Done |
 | Mini Project 03 | Number Analyzer | ✅ Done |
+| --- | --- | --- |
+| Lesson 05 | Functions | ✅ Done |
+| Exercise 10 | Basic Functions | ✅ Done |
+| Exercise 11 | Functions with Control Flow | ✅ Done |
+| Exercise 12 | Ownership in Functions | ✅ Done |
+| Mini Project 04 | Simple Calculator | ✅ Done |
 
 ## Setup
 

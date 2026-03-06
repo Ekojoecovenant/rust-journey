@@ -8,5 +8,5 @@ members = [
     "exercises/ex01",
     "exercises/ex02",
     "exercises/ex03",
-    "exercises/mini_project_01", "exercises/ex04", "exercises/ex05", "exercises/ex06", "exercises/mini_project_02", "lessons/lesson_04", "exercises/ex07", "exercises/ex08", "exercises/ex09", "exercises/mini_project_03",
+    "exercises/mini_project_01", "exercises/ex04", "exercises/ex05", "exercises/ex06", "exercises/mini_project_02", "lessons/lesson_04", "exercises/ex07", "exercises/ex08", "exercises/ex09", "exercises/mini_project_03", "lessons/lesson_05", "exercises/ex10", "exercises/ex11", "exercises/ex12", "exercises/mini_project_04",
 ]
