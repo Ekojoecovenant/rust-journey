@@ -85,3 +85,31 @@ version = "0.1.0"
 [[package]]
 name = "mini_project_04"
 version = "0.1.0"
+
+[[package]]
+name = "problem_01"
+version = "0.1.0"
+
+[[package]]
+name = "problem_02"
+version = "0.1.0"
+
+[[package]]
+name = "problem_03"
+version = "0.1.0"
+
+[[package]]
+name = "problem_04"
+version = "0.1.0"
+
+[[package]]
+name = "problem_05"
+version = "0.1.0"
+
+[[package]]
+name = "problem_06"
+version = "0.1.0"
+
+[[package]]
+name = "problem_07"
+version = "0.1.0"

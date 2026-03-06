@@ -31,6 +31,22 @@ Learning Rust from scratch, step by step, with the best tutor ever.
 | Exercise 12 | Ownership in Functions | ✅ Done |
 | Mini Project 04 | Simple Calculator | ✅ Done |
 
+## DSA Practice
+
+### Set 01 — Arrays & Strings
+
+<!-- | 01 | Array Max & Min | 🔄 In Progress | -->
+<!-- | 02 | Count Occurrences | ⏳ Pending | -->
+| # | Problem | Status |
+| -- | -------- | -------- |
+| 01 | Array Max & Min | ✅ Done |
+| 02 | Count Occurrences | ✅ Done |
+| 03 | Reverse Array | ✅ Done |
+| 04 | Linear Search | ✅ Done |
+| 05 | Bubble Sort | ✅ Done |
+| 06 | Two Sum | ✅ Done |
+| 07 | Palindrome Check | ✅ Done |
+
 ## Setup
 
 - Rust version: 1.93.1
