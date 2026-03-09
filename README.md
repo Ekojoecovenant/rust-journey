@@ -35,8 +35,6 @@ Learning Rust from scratch, step by step, with the best tutor ever.
 
 ### Set 01 — Arrays & Strings
 
-<!-- | 01 | Array Max & Min | 🔄 In Progress | -->
-<!-- | 02 | Count Occurrences | ⏳ Pending | -->
 | # | Problem | Status |
 | -- | -------- | -------- |
 | 01 | Array Max & Min | ✅ Done |
@@ -46,6 +44,18 @@ Learning Rust from scratch, step by step, with the best tutor ever.
 | 05 | Bubble Sort | ✅ Done |
 | 06 | Two Sum | ✅ Done |
 | 07 | Palindrome Check | ✅ Done |
+
+### Set 02 — Sorting, Math & String Algorithms
+
+| # | Problem | Status |
+| -- | -------- | ------- |
+| 08 | Sum & Average | ⏳ Pending |
+| 09 | Count Evens & Odds | ⏳ Pending |
+| 10 | Selection Sort | ⏳ Pending |
+| 11 | Fibonacci Sequence | ⏳ Pending |
+| 12 | Array Rotation | ⏳ Pending |
+| 13 | Insertion Sort | ⏳ Pending |
+| 14 | Caesar Cipher | ⏳ Pending |
 
 ## Setup
 

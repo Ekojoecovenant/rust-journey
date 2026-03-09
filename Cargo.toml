@@ -23,5 +23,11 @@ members = [
     "exercises/ex11",
     "exercises/ex12",
     "exercises/mini_project_04",
-    "dsa/set_01/problem_01", "dsa/set_01/problem_02", "dsa/set_01/problem_03", "dsa/set_01/problem_04", "dsa/set_01/problem_05", "dsa/set_01/problem_06", "dsa/set_01/problem_07",
+    "dsa/set_01/problem_01",
+    "dsa/set_01/problem_02",
+    "dsa/set_01/problem_03",
+    "dsa/set_01/problem_04",
+    "dsa/set_01/problem_05",
+    "dsa/set_01/problem_06",
+    "dsa/set_01/problem_07", "dsa/set_02/problem_08", "dsa/set_02/problem_09", "dsa/set_02/problem_10", "dsa/set_02/problem_11", "dsa/set_02/problem_12", "dsa/set_02/problem_13", "dsa/set_02/problem_14",
 ]
