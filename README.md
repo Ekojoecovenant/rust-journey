@@ -49,13 +49,13 @@ Learning Rust from scratch, step by step, with the best tutor ever.
 
 | # | Problem | Status |
 | -- | -------- | ------- |
-| 08 | Sum & Average | ⏳ Pending |
-| 09 | Count Evens & Odds | ⏳ Pending |
-| 10 | Selection Sort | ⏳ Pending |
-| 11 | Fibonacci Sequence | ⏳ Pending |
-| 12 | Array Rotation | ⏳ Pending |
-| 13 | Insertion Sort | ⏳ Pending |
-| 14 | Caesar Cipher | ⏳ Pending |
+| 08 | Sum & Average | ✅ Done |
+| 09 | Count Evens & Odds | ✅ Done |
+| 10 | Selection Sort | ✅ Done |
+| 11 | Fibonacci Sequence | ✅ Done |
+| 12 | Array Rotation | ✅ Done |
+| 13 | Insertion Sort | ✅ Done |
+| 14 | Caesar Cipher | ✅ Done |
 
 ## Setup
 
