@@ -30,6 +30,12 @@ Learning Rust from scratch, step by step, with the best tutor ever.
 | Exercise 11 | Functions with Control Flow | ✅ Done |
 | Exercise 12 | Ownership in Functions | ✅ Done |
 | Mini Project 04 | Simple Calculator | ✅ Done |
+| --- | --- | --- |
+| Lesson 06 | Ownership | ✅ Done |
+| Exercise 13 | Ownership basics | ✅ Done |
+| Exercise 14 | References & Borrowing | ✅ Done |
+| Exercise 15 | Borrow checker challenge | ✅ Done |
+| Mini Project 05 | Text Analyzer | ✅ Done |
 
 ## DSA Practice
 
