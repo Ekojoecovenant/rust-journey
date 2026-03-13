@@ -63,6 +63,18 @@ Learning Rust from scratch, step by step, with the best tutor ever.
 | 13 | Insertion Sort | ✅ Done |
 | 14 | Caesar Cipher | ✅ Done |
 
+### Set 03 — Binary search, stack, recursion & advanced algorithms
+
+| # | Problem | Status |
+| -- | -------- | ------- |
+| 15 | Binary Search | ✅ Done |
+| 16 | Second Largest Element | ✅ Done |
+| 17 | Stack Implementation | ✅ Done |
+| 18 | Count Character Frequency | ✅ Done |
+| 19 | Merge Two Sorted Arrays | ✅ Done |
+| 20 | Recursive Fibonacci | ✅ Done |
+| 21 | Anagram Checker | ✅ Done |
+
 ## Setup
 
 - Rust version: 1.93.1
