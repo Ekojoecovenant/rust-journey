@@ -161,3 +161,31 @@ version = "0.1.0"
 [[package]]
 name = "problem_14"
 version = "0.1.0"
+
+[[package]]
+name = "problem_15"
+version = "0.1.0"
+
+[[package]]
+name = "problem_16"
+version = "0.1.0"
+
+[[package]]
+name = "problem_17"
+version = "0.1.0"
+
+[[package]]
+name = "problem_18"
+version = "0.1.0"
+
+[[package]]
+name = "problem_19"
+version = "0.1.0"
+
+[[package]]
+name = "problem_20"
+version = "0.1.0"
+
+[[package]]
+name = "problem_21"
+version = "0.1.0"
