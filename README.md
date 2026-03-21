@@ -36,6 +36,12 @@ Learning Rust from scratch, step by step, with the best tutor ever.
 | Exercise 14 | References & Borrowing | ✅ Done |
 | Exercise 15 | Borrow checker challenge | ✅ Done |
 | Mini Project 05 | Text Analyzer | ✅ Done |
+| --- | --- | --- |
+| Lesson 07 | Structs | ✅ Done |
+| Exercise 16 | Library System | ✅ Done |
+| Exercise 17 | School Transcript | ✅ Done |
+| Exercise 18 | Game Character Creator | ✅ Done |
+| Mini Project 06 | Bank Account System | ✅ Done |
 
 ## DSA Practice
 
