@@ -42,6 +42,13 @@ Learning Rust from scratch, step by step, with the best tutor ever.
 | Exercise 17 | School Transcript | ✅ Done |
 | Exercise 18 | Game Character Creator | ✅ Done |
 | Mini Project 06 | Bank Account System | ✅ Done |
+| --- | --- | --- |
+| Lesson 08 | Enums | ✅ Done |
+| Exercise 19 | Simple Weather App | ✅ Done |
+| Exercise 20 | Notification System | ✅ Done |
+| Exercise 21 | Simple Student Database | ✅ Done |
+| Exercise 22 | Data Validation System | ✅ Done |
+| Mini Project 07 | Simple Calculator with Error handling | ✅ Done |
 
 ## DSA Practice
 
