@@ -2,8 +2,8 @@
 enum CalcError {
     DivisionByZero,
     NegativeSquareRoot,
-    Overflow,
-    InvalidOperation,
+    _Overflow,
+    _InvalidOperation,
 }
 
 struct Calculator {

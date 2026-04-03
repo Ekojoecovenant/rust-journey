@@ -31,7 +31,7 @@ Learning Rust from scratch, step by step, with the best tutor ever.
 | Exercise 12 | Ownership in Functions | ✅ Done |
 | Mini Project 04 | Simple Calculator | ✅ Done |
 | --- | --- | --- |
-| Lesson 06 | Ownership | ✅ Done |
+| Lesson 06 | Ownership, Borrowing & Borrow Checker | ✅ Done |
 | Exercise 13 | Ownership basics | ✅ Done |
 | Exercise 14 | References & Borrowing | ✅ Done |
 | Exercise 15 | Borrow checker challenge | ✅ Done |
@@ -43,12 +43,19 @@ Learning Rust from scratch, step by step, with the best tutor ever.
 | Exercise 18 | Game Character Creator | ✅ Done |
 | Mini Project 06 | Bank Account System | ✅ Done |
 | --- | --- | --- |
-| Lesson 08 | Enums | ✅ Done |
+| Lesson 08 | Enums, Option, Result & error handling | ✅ Done |
 | Exercise 19 | Simple Weather App | ✅ Done |
 | Exercise 20 | Notification System | ✅ Done |
 | Exercise 21 | Simple Student Database | ✅ Done |
 | Exercise 22 | Data Validation System | ✅ Done |
 | Mini Project 07 | Simple Calculator with Error handling | ✅ Done |
+| --- | --- | --- |
+| Lesson 09 | Collections - Vec, HashMap & HashSet | ✅ Done |
+| Exercise 23 | Dynamic GradeBook | ✅ Done |
+| Exercise 24 | Simple Inventory System | ✅ Done |
+| Exercise 25 | Course Enrollment Analyzer | ✅ Done |
+| Exercise 26 | Contact Book | ✅ Done |
+| Mini Project 08 | Student Grade Management System | ✅ Done |
 
 ## DSA Practice
 
