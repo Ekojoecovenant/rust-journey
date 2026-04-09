@@ -56,6 +56,15 @@ Learning Rust from scratch, step by step, with the best tutor ever.
 | Exercise 25 | Course Enrollment Analyzer | ✅ Done |
 | Exercise 26 | Contact Book | ✅ Done |
 | Mini Project 08 | Student Grade Management System | ✅ Done |
+| --- | --- | --- |
+| Lesson 10 | Traits & Generics | ✅ Done |
+| Exercise 27 | Simple Animal Sound System | ✅ Done |
+| Exercise 28 | Notification System | ✅ Done |
+| Exercise 29 | Simple Area Calculator | ✅ Done |
+| Exercise 30 | Student Report Card System | ✅ Done |
+| Exercise 31 | Data Display System | ✅ Done |
+| Exercise 32 | ' | ✅ Done |
+| Mini Project 09 | Shape Calculator | ✅ Done |
 
 ## DSA Practice
 
