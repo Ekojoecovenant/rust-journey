@@ -105,7 +105,6 @@ impl Shape for Trapezoid {
         0.5 * (self.a + self.b) * self.height
     }
 
-    // i used ai for this one mommy
     fn perimeter(&self) -> f64 {
         // Calculate the base of the small side triangle
         let side_base = (self.a - self.b).abs() / 2.0;
