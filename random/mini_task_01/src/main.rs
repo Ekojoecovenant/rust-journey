@@ -1,83 +1,51 @@
-// struct Person {
-//     name: String,
-//     age: u8,
-// }
+/*fn main() {
+    let numbers = &vec![1, 2, 3, 4, 5, 6];
 
-// impl Person {
-//     fn new(name: String, age: u8) -> Self {
-//         Person { name, age }
-//     }
+    // let even_numbers: Vec<&i32> = numbers.iter().filter(|x| *x % 2 == 0).collect();
+    let even_numbers: Vec<i32> = numbers
+        .clone()
+        .iter()
+        .filter(|x| *x % 2 == 0)
+        .copied()
+        .collect();
 
-//     fn greet(&self) {
-//         println!("Hi I'm {} and I'm {} years old", self.name, self.age);
-//     }
-// }
-
-// fn main() {
-//     // let person1 = Person::new("Cove".to_string(), 19);
-//     // person1.greet();
-
-//     // success
-//     match divide(10.0, 2.0) {
-//         Ok(result) => println!("✅ Success : {:.2}", result),
-//         Err(e) => println!("❌ Error: {}", e),
-//     }
-
-//     // fail
-//     match divide(10.0, 0.0) {
-//         Ok(result) => println!("✅ Success : {:.2}", result),
-//         Err(e) => println!("❌ Error: {}", e),
-//     }
-// }
-
-// fn divide(num1: f64, num2: f64) -> Result<f64, String> {
-//     if num2 == 0.0 {
-//         return Err(String::from("cannot be divided by zero"));
-//     }
-//     Ok(num1 / num2)
-// }
-
-trait Describable {
-    fn describe(&self) -> String;
-
-    fn print_description(&self) {
-        println!("{}", self.describe());
-    }
+    println!("{:?}", numbers);
+    println!("{:?}", even_numbers);
 }
+*/
 
-struct Car {
-    brand: String,
-    year: u16,
-}
+/*fn main() {
+    let numbers = vec![1, 2, 3, 4, 5, 6];
 
-struct Phone {
-    brand: String,
-    model: String,
-}
+    let multipled: Vec<i32> = numbers.iter().map(|x| x * 2).collect();
 
-impl Describable for Car {
-    fn describe(&self) -> String {
-        format!("Car: {} ({})", self.brand, self.year)
-    }
+    println!("{:?}", multipled);
 }
+*/
 
-impl Describable for Phone {
-    fn describe(&self) -> String {
-        format!("Phone: {} - {}", self.brand, self.model)
-    }
+/*fn main() {
+    let numbers = vec![1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+    let new: Vec<i32> = numbers
+        .iter()
+        .filter(|x| *x % 2 == 0)
+        .map(|x| x * x)
+        .collect();
+
+    let sum = new.iter().fold(0, |start, &x| start + x);
+    println!("{:?}", new);
+    println!("{}", sum);
 }
+*/
 
 fn main() {
-    let car1 = Car {
-        brand: "Toyota".to_string(),
-        year: 2019,
-    };
+    let bonus = 10;
 
-    let phone1 = Phone {
-        brand: "Apple".to_string(),
-        model: "iPhone 15".to_string(),
-    };
+    // fn add_bonus(x: i32) -> i32 {
+    //     x + bonus // ❌ Rust screams here!!
+    // }
 
-    car1.print_description();
-    phone1.print_description();
+    let add_bonus = |x| x + bonus;
+
+    println!("{}", add_bonus(5));
 }

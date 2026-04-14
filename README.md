@@ -63,7 +63,7 @@ Learning Rust from scratch, step by step, with the best tutor ever.
 | Exercise 29 | Simple Area Calculator | ✅ Done |
 | Exercise 30 | Student Report Card System | ✅ Done |
 | Exercise 31 | Data Display System | ✅ Done |
-| Exercise 32 | ' | ✅ Done |
+| Exercise 32 | Media Library System | ✅ Done |
 | Mini Project 09 | Shape Calculator | ✅ Done |
 
 ## DSA Practice
@@ -103,6 +103,15 @@ Learning Rust from scratch, step by step, with the best tutor ever.
 | 19 | Merge Two Sorted Arrays | ✅ Done |
 | 20 | Recursive Fibonacci | ✅ Done |
 | 21 | Anagram Checker | ✅ Done |
+
+### Set 04
+
+| # | Problem | Status |
+| -- | -------- | ------- |
+| 22 | Two pointer - sum pair | ✅ Done |
+| 23 | Stack using Vec | ✅ Done |
+| 24 | Queue using Vec | ✅ Done |
+| 25 | Linked list basics | ✅ Done |
 
 ## Setup
 

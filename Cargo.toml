@@ -2,27 +2,33 @@
 resolver = "2"
 
 members = [
+    # 
     "lessons/lesson_01",
     "lessons/lesson_02",
-    "lessons/lesson_03",
     "exercises/ex01",
     "exercises/ex02",
     "exercises/ex03",
     "exercises/mini_project_01",
+
+    # 
+    "lessons/lesson_03",
     "exercises/ex04",
     "exercises/ex05",
     "exercises/ex06",
     "exercises/mini_project_02",
+    # 
     "lessons/lesson_04",
     "exercises/ex07",
     "exercises/ex08",
     "exercises/ex09",
     "exercises/mini_project_03",
+    # 
     "lessons/lesson_05",
     "exercises/ex10",
     "exercises/ex11",
     "exercises/ex12",
     "exercises/mini_project_04",
+    # 
     "dsa/set_01/problem_01",
     "dsa/set_01/problem_02",
     "dsa/set_01/problem_03",
@@ -30,6 +36,7 @@ members = [
     "dsa/set_01/problem_05",
     "dsa/set_01/problem_06",
     "dsa/set_01/problem_07",
+    # 
     "dsa/set_02/problem_08",
     "dsa/set_02/problem_09",
     "dsa/set_02/problem_10",
@@ -37,11 +44,13 @@ members = [
     "dsa/set_02/problem_12",
     "dsa/set_02/problem_13",
     "dsa/set_02/problem_14",
+    # 
     "lessons/lesson_06",
     "exercises/ex13",
     "exercises/ex14",
     "exercises/ex15",
     "exercises/mini_project_05",
+    # 
     "dsa/set_03/problem_15",
     "dsa/set_03/problem_16",
     "dsa/set_03/problem_17",
@@ -49,25 +58,37 @@ members = [
     "dsa/set_03/problem_19",
     "dsa/set_03/problem_20",
     "dsa/set_03/problem_21",
+    # 
     "lessons/lesson_07",
     "exercises/ex16",
     "exercises/ex17",
     "exercises/ex18",
     "exercises/mini_project_06",
-    "lessons/lesson_08",
+    # 
     "random/mini_task_01",
+    # 
+    "lessons/lesson_08",
     "exercises/ex19",
     "exercises/ex20",
     "exercises/ex21",
     "exercises/ex22",
     "exercises/mini_project_07",
+    # 
     "lessons/lesson_09",
     "exercises/ex23",
     "exercises/ex24",
     "exercises/ex25",
     "exercises/ex26",
     "exercises/mini_project_08",
+    # 
     "lessons/lesson_10",
     "exercises/ex27",
-    "exercises/ex28", "exercises/ex29", "exercises/ex30", "exercises/ex31", "exercises/ex32", "exercises/mini_project_09",
+    "exercises/ex28",
+    "exercises/ex29",
+    "exercises/ex30",
+    "exercises/ex31",
+    "exercises/ex32",
+    "exercises/mini_project_09",
+    # 
+    "dsa/set_04/problem_22", "dsa/set_04/problem_23", "dsa/set_04/problem_24", "dsa/set_04/problem_25", "dsa/set_04/problem_26",
 ]
